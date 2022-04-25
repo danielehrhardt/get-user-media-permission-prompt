@@ -1,0 +1,7 @@
+{
+  "name": "getUserMedia Permission Prompt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
